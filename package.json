@@ -2,7 +2,7 @@
   "name": "GooseTrack-project-group-1-frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://usai2005.github.io/GooseTrack-project-group-1-frontend/",
+  "homepage": "https://GoitStudentsWorks.github.io/react_node_fs71_usai2005/",
   "dependencies": {
     "@hookform/error-message": "^2.0.1",
     "@hookform/resolvers": "^3.3.1",
