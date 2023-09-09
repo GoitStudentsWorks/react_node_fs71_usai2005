@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react_node_fs71_usai2005/static/css/main.ff9e4b5a.css",
-    "main.js": "/react_node_fs71_usai2005/static/js/main.747f9ebd.js",
+    "main.js": "/react_node_fs71_usai2005/static/js/main.223e168c.js",
     "static/css/880.9927ac4a.chunk.css": "/react_node_fs71_usai2005/static/css/880.9927ac4a.chunk.css",
     "static/js/880.54d3075b.chunk.js": "/react_node_fs71_usai2005/static/js/880.54d3075b.chunk.js",
     "static/js/668.24a561e0.chunk.js": "/react_node_fs71_usai2005/static/js/668.24a561e0.chunk.js",
@@ -68,7 +68,7 @@
     "static/media/logo-goose-mob.webp": "/react_node_fs71_usai2005/static/media/logo-goose-mob.4676f39dd836e6b94737.webp",
     "static/media/close.svg": "/react_node_fs71_usai2005/static/media/close.3363a6706a17d9e2615fa4e8dc6348aa.svg",
     "main.ff9e4b5a.css.map": "/react_node_fs71_usai2005/static/css/main.ff9e4b5a.css.map",
-    "main.747f9ebd.js.map": "/react_node_fs71_usai2005/static/js/main.747f9ebd.js.map",
+    "main.223e168c.js.map": "/react_node_fs71_usai2005/static/js/main.223e168c.js.map",
     "880.9927ac4a.chunk.css.map": "/react_node_fs71_usai2005/static/css/880.9927ac4a.chunk.css.map",
     "880.54d3075b.chunk.js.map": "/react_node_fs71_usai2005/static/js/880.54d3075b.chunk.js.map",
     "668.24a561e0.chunk.js.map": "/react_node_fs71_usai2005/static/js/668.24a561e0.chunk.js.map",
@@ -84,6 +84,6 @@
   },
   "entrypoints": [
     "static/css/main.ff9e4b5a.css",
-    "static/js/main.747f9ebd.js"
+    "static/js/main.223e168c.js"
   ]
 }
