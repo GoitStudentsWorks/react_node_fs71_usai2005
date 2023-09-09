@@ -15,7 +15,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
   <Provider store={store}>
     <PersistGate loading={null} persistor={persistor}>
       <ThemeProviderWrapper>
-        <BrowserRouter basename="/GooseTrack-project-group-1-frontend">
+        <BrowserRouter basename="/react_node_fs71_usai2005">
           <GlobalStyle />
           <App />
         </BrowserRouter>
